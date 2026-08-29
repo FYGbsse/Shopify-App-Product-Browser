@@ -74,8 +74,7 @@ npm run build
 
 ## Access scopes
 
-`read_products`, `write_products`, `write_metaobjects`,
-`write_metaobject_definitions` — see [shopify.app.toml](shopify.app.toml).
+`read_products`, `write_products` — see [shopify.app.toml](shopify.app.toml).
 
 ## Notes / next steps
 
