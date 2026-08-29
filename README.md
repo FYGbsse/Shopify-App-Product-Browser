@@ -19,6 +19,8 @@ The home page is a small **product browser** for the connected store:
 The point of the app is to practise the pieces every Shopify app needs: OAuth,
 session storage, embedded UI, GraphQL queries and mutations, and webhooks.
 
+![The app running in the Shopify admin, showing product search results](docs/screenshot.png)
+
 ## Stack
 
 | Layer | Choice |
